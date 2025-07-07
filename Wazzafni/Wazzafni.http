@@ -1,0 +1,6 @@
+@Wazzafni_HostAddress = http://localhost:5190
+
+GET {{Wazzafni_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
